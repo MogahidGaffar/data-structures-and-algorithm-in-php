@@ -4,13 +4,13 @@ Welcome to the DSA PHP Repository!
 Hi everyone , its me mogahid !
 This repository is a comprehensive collection of data structures and algorithm implementations that I've crafted while diving deep into the world of Data Structures and Algorithms (DSA) using PHP. Within these files, you'll discover efficient, well-commented PHP programs that illustrate various DSA concepts, designed to strengthen your understanding and implementation skills.
 
-##Key Features:
+## Key Features:
 Clear Implementations: Each program is meticulously written in PHP, showcasing different data structures (like stacks, queues, linked lists, trees) and algorithms (sorting, searching, graph algorithms).
 Detailed Comments: I've provided detailed comments and explanations alongside the code, guiding you through the logic and functionality of each implementation.
 Optimized Solutions: These programs aim not only for functionality but also for efficiency, utilizing PHP's capabilities to create optimal solutions.
 Educational Resource: Whether you're new to DSA or looking to reinforce your knowledge, this repository serves as a valuable educational resource for learners at all levels.
 
-##Contents:
+## Contents:
 Stacks and Queues: Explore implementations of stack and queue data structures, understanding their principles and applications.
 Linked Lists: Discover singly linked lists, doubly linked lists, and circular linked lists, grasping their node-based structures and operations.
 Sorting Algorithms: From Bubble Sort to Quick Sort, witness the step-by-step execution of various sorting techniques in PHP.

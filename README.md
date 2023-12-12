@@ -1,4 +1,4 @@
-# data-structures-and-algorithm-in-php
+# data-structures-and-algorithms-in-php
 <h1 align="center">Hi 👋, I'm Mogahid Gaffar</h1>
 
 - Welcome to My  DSA PHP Repository!

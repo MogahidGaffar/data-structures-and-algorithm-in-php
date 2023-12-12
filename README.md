@@ -1,6 +1,6 @@
 # data-structures-and-algorithm-in-php
-
 <h1 align="center">Hi 👋, I'm Mogahid Gaffar</h1>
+
 - Welcome to My  DSA PHP Repository!
 - This repository is a comprehensive collection of data structures and algorithm implementations that I've crafted while diving deep into the world of Data Structures and Algorithms (DSA) using PHP. Within these files, you'll discover efficient, well-commented PHP programs that illustrate various DSA concepts, designed to strengthen your understanding and implementation skills.
 

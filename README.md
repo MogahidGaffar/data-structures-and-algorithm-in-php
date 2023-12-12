@@ -1,8 +1,8 @@
 # data-structures-and-algorithm-in-php
 
-Welcome to the DSA PHP Repository!
-Hi everyone , its me mogahid !
-This repository is a comprehensive collection of data structures and algorithm implementations that I've crafted while diving deep into the world of Data Structures and Algorithms (DSA) using PHP. Within these files, you'll discover efficient, well-commented PHP programs that illustrate various DSA concepts, designed to strengthen your understanding and implementation skills.
+- Welcome to the DSA PHP Repository!
+- Hi everyone , its me mogahid !
+- This repository is a comprehensive collection of data structures and algorithm implementations that I've crafted while diving deep into the world of Data Structures and Algorithms (DSA) using PHP. Within these files, you'll discover efficient, well-commented PHP programs that illustrate various DSA concepts, designed to strengthen your understanding and implementation skills.
 
 ## Key Features:
 - Clear Implementations: Each program is meticulously written in PHP, showcasing different data structures (like stacks, queues, linked lists, trees) and algorithms (sorting, searching, graph algorithms).

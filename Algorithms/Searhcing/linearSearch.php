@@ -11,9 +11,7 @@ $n = count ($arr);                                              //getting the si
 }
 $array =[11,9,5,21];                                            //declaring an array of elements
 $element =5;                                                    //declaring variable containg the required element 
-
 echo linearsearch($array,$element);                           //calling the function
-
 
 /*
 Here are a few drawbacks of the linear search :
